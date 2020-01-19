@@ -8,7 +8,7 @@ setup(
     url='https://github.com/SocialScienceWithOnlineData/privacy_badger_play.git',
     author='Seth Frey',
     author_email='sfrey@ucdavis.edu',
-    description='Helper functions for exploring json data output by the EFF\'s Privacy Badger extensionperforming image recognition on web images in a notebook environment',
+    description='Helper functions for exploring json data output by the EFF\'s Privacy Badger extension',
     packages=find_packages(),
     license='MIT',
 )
